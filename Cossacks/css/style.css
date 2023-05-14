@@ -1,0 +1,45 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	background: #E5E5E5;
+}
+.container{
+	width: 1240px;
+	height: 3044px;
+	margin: 0 auto;
+	background: #FFFFFF;
+}
+.header{
+	text-align: center;
+	font-family: 'Jura';
+}
+.Group36{
+	margin-left: 70px;
+}
+img{
+	margin-left: 10px;
+}
+.text__vera, .text__derjavnost{
+	background: #F9C00D;
+	float: left;
+	width: 540px;
+	height: 480px;
+	border-radius: 10px;
+	margin-top: 25px;
+}
+.text__vera{
+	margin-left: 70px;
+}
+.text__derjavnost{
+	margin-left: 25px;
+}
+.header__box, p{
+	margin-left: 14px;
+	margin-top: 14px;
+}
+p{
+	font-size: 16px;
+}
